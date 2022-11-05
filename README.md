@@ -22,7 +22,7 @@ I have always been interested in technology, and that sparked my interest in Sof
 🔥 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 * House Marketplace - Marketplace for tenants and owners
-* Github finder - finding users on Github
+* Github finder - Finding users on Github
 * Recipy API project - Thousands of healthy recipes with instructions w/ Spoonacular API
 
 ⭐️ 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝙸 𝚊𝚖 . . .
