@@ -3,6 +3,7 @@
 A front end developer specializing in JavaScript with aspirations to learn the MERN stack, who is always looking to explore new technologies.
 
 👩🏽‍💻 Currently: Finalizing a React project
+
 🌱 In the near future I plan to learn Express, NodeJS, Redux as well as diving deeper into babel and webpack.
 
 A𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
