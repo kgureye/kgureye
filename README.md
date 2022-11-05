@@ -4,7 +4,7 @@ A front end developer specializing in JavaScript with aspirations to learn the M
 
 👩🏽‍💻 Currently I am finalizing a React project
 
-🌱 In the near future I plan to learn Express, NodeJS, Redux as well as diving deeper into babel and webpack.
+🌱 In the near future I plan to learn Express, NodeJS and Redux as well as deepen my understanding of Babel and Webpack
 
 A𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
 
