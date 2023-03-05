@@ -2,9 +2,7 @@
 
 A front end developer specializing in JavaScript with aspirations to learn the MERN stack, who is always looking to explore new technologies.
 
-👩🏽‍💻 Currently I am finalizing a React project
-
-🌱 In the near future I plan to learn Express, NodeJS and Redux as well as deepen my understanding of Babel and Webpack
+👩🏽‍💻 Currently I am learning Node and Express.
 
 A𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
 
@@ -20,12 +18,4 @@ I have always been interested in technology, and that sparked my interest in Sof
 * Webpack
 * Babel
 
-🔥 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-* House Marketplace - Marketplace for tenants and owners
-* Github finder - Finding users on Github
-* Recipy API project - Thousands of healthy recipes with instructions w/ Spoonacular API
-
-⭐️ 𝚆𝚑𝚎𝚗 𝙸'𝚖 𝚗𝚘𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝙸 𝚊𝚖 . . .
-* Doing boxing, running or Muay Thai
-* 𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚝𝚘 𝙿𝚘𝚍𝚌𝚊𝚜𝚝s & watching Arsenal FC
