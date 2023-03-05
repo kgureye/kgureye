@@ -10,11 +10,11 @@ I have always been interested in technology, and that sparked my interest in Sof
 
 🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 
-* 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝
-* 𝚁𝚎𝚊𝚌𝚝
-* 𝙷𝚃𝙼𝙻
-* 𝙲𝚂𝚂
-* 𝙶𝚒𝚝
+* JavaScript
+* React
+* HTML
+* CSS
+* Git
 * Webpack
 * Babel
 
