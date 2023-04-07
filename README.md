@@ -2,7 +2,7 @@
 
 A front end developer specializing in JavaScript with aspirations to learn the MERN stack, who is always looking to explore new technologies.
 
-👩🏽‍💻 Currently I am learning Node and Express.
+👩🏽‍💻 Currently I am learning TypeScript, Node and Express
 
 A𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
 
