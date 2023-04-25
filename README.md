@@ -1,4 +1,4 @@
-𝙷ei 👋! Mitt navn er Kani.
+𝙷ei 👋 Mitt navn er Kani.
 
 En frontend-utvikler som spesialiserer seg på JavaScript med ambisjoner om å lære MERN-stacken, som alltid er ute etter å utforske nye teknologier.
 
