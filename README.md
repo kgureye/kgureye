@@ -1,14 +1,14 @@
-𝙷𝚒 𝚝𝚑𝚎𝚛𝚎,👋 𝙸'𝚖 Kani!
+𝙷ei 👋! Mitt navn er Kani.
 
-A front end developer specializing in JavaScript with aspirations to learn the MERN stack, who is always looking to explore new technologies.
+En frontend-utvikler som spesialiserer seg på JavaScript med ambisjoner om å lære MERN-stacken, som alltid er ute etter å utforske nye teknologier.
 
-👩🏽‍💻 Currently I am learning TypeScript, Node and Express
+👩🏽‍💻 For øyeblikket lærer jeg meg TypeScript gjennom en kombinasjon av kurs og prosjektbasert læring.
 
-A𝚋𝚘𝚞𝚝 𝙼𝚎 🤸‍♂️
+Om meg 🤸‍♂️
 
-I have always been interested in technology, and that sparked my interest in Software Development. I learned more about the subject via online resources and began to teach myself basic concepts. I've become intimately familiar with several coding languages and participated in coding challenges. I'm very excited to work as a professional Software Developer and use the versatile skills that this career demands.
+Jeg har alltid vært interessert i teknologi, og det vekket interessen min for programvareutvikling. Jeg lærte mer om emnet via nettressurser og begynte å lære meg grunnleggende begreper. Jeg har blitt godt kjent med flere kodespråk og deltatt i kodeutfordringer på nett. Jeg er veldig spent på å jobbe som en profesjonell utvikler og bruke de allsidige ferdighetene som denne karrieren krever.
 
-🖥️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
+🖥️ Språk & Rammeverk
 
 * JavaScript
 * React
@@ -17,6 +17,11 @@ I have always been interested in technology, and that sparked my interest in Sof
 * Git
 * Webpack
 * Babel
+* Postman
+* Node Basics
+* Express Basics
+* MongoDB Basics
+* REST API
 
 
 
