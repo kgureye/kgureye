@@ -2,7 +2,7 @@
 
 En frontend-utvikler som spesialiserer seg på JavaScript med ambisjoner om å lære MERN-stacken, som alltid er ute etter å utforske nye teknologier.
 
-👩🏽‍💻 For øyeblikket lærer jeg meg TypeScript gjennom en kombinasjon av kurs og prosjektbasert læring.
+👩🏽‍💻 For øyeblikket lærer jeg meg Java og TypeScript gjennom en kombinasjon av kurs og prosjektbasert læring.
 
 Om meg 🤸‍♂️
 
